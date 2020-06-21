@@ -1,0 +1,4 @@
+# fullPage
+fullPage
+用了jquery自己封装了fullPage插件来实现此项目
+打开index文件，通过上下左右键控制翻页
