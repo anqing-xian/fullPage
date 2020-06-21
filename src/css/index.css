@@ -1,0 +1,23 @@
+.topBtn{
+    position: fixed;
+    top: 50px;
+    left: 50%;
+    margin-left: -50px;
+    width: 70px;
+    height: 70px;
+    background-image: url(../img/download.png);
+    background-size: 100% 100%;
+    cursor: pointer;
+}
+.rightBtn{
+    display: none;
+    position: fixed;
+    top: 50%;
+    right: 50px;
+    margin-top: -50px;
+    width: 70px;
+    height: 70px;
+    background-image: url(../img/leftload.png);
+    background-size: 100% 100%;
+    cursor: pointer;
+}
